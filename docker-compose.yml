@@ -1,0 +1,3 @@
+tftp:
+  build: .
+  privileged: true
